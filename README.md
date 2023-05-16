@@ -8,30 +8,30 @@
 - 📍 Makassar, Indonesia
 
 ## How to reach me:
-[<img align="left" alt="muhammadfajarb | medium" width="22px" src="img/medium.png" />][medium]
-[<img align="left" alt="muhammadfajarb | LinkedIn" width="22px" src="img/linkedin.png" />][linkedin]
-[<img align="left" alt="muhammadfajarb | Instagram" width="22px" src="img/instagram.png" />][instagram]
+[<img align="left" alt="muhammadfajarb | medium" height="22px" src="img/medium.png" />][medium]
+[<img align="left" alt="muhammadfajarb | LinkedIn" height="22px" src="img/linkedin.png" />][linkedin]
+[<img align="left" alt="muhammadfajarb | Instagram" height="22px" src="img/instagram.png" />][instagram]
 
 <br/><br/>
 
 ## Language and Tools:
-[<img align="left" alt="Visual Studio Code" width="26px" src="img/vscode.png" />][vscode]
-[<img align="left" alt="intellij" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/IntelliJ_IDEA_Icon.svg/1024px-IntelliJ_IDEA_Icon.svg.png"/>][intellij]
-[<img align="left" alt="Java" width="26px" src="img/java.jpg" />][java]
-[<img align="left" alt="TestNG" width="26px" src="img/testng.png" />][testng]
-[<img align="left" alt="Rest Assured" width="26px" src="img/restassured.png" />][restassured]
-[<img align="left" alt="Selenium" width="26px" src="img/selenium.png" />][selenium]
-[<img align="left" alt="Cucumber" width="26px" src="img/cucumber.png" />][cucumber]
-[<img align="left" alt="Appium" width="26px" src="img/appium.png" />][appium]
-[<img align="left" alt="Allure report" width="26px" src="img/allure.png" />][allure]
-[<img align="left" alt="Docker" width="26px" src="img/docker.png" />][docker]
-[<img align="left" alt="Jenkins" width="26px" src="img/jenkins.png" />][jenkins]
-[<img align="left" alt="Git" width="26px" src="img/git.png" />][git]
-[<img align="left" alt="postman" width="26px" src="https://res.cloudinary.com/postman/image/upload/t_team_logo/v1629869194/team/2893aede23f01bfcbd2319326bc96a6ed0524eba759745ed6d73405a3a8b67a8"/>][postman]
-[<img align="left" alt="jira" width="26px" src="https://astraapps.astra.co.id/jira-software/images/atlassian-jira-logo-large.png"/>][jira]
-[<img align="left" alt="MySQL" width="26px" src="img/mysql.png" />][mysql]
-[<img align="left" alt="PHP" width="26px" src="img/php.jpg" />][php]
-[<img align="left" alt="Python" width="26px" src="img/python.png" />][python]
+[<img align="left" alt="Visual Studio Code" height="26px" src="img/vscode.png" />][vscode]
+[<img align="left" alt="intellij" height="26px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/IntelliJ_IDEA_Icon.svg/1024px-IntelliJ_IDEA_Icon.svg.png"/>][intellij]
+[<img align="left" alt="Java" height="26px" src="img/java.jpg" />][java]
+[<img align="left" alt="TestNG" height="26px" src="img/testng.png" />][testng]
+[<img align="left" alt="Rest Assured" height="26px" src="img/restassured.png" />][restassured]
+[<img align="left" alt="Selenium" height="26px" src="img/selenium.png" />][selenium]
+[<img align="left" alt="Cucumber" height="26px" src="img/cucumber.png" />][cucumber]
+[<img align="left" alt="Appium" height="26px" src="img/appium.png" />][appium]
+[<img align="left" alt="Allure report" height="26px" src="img/allure.png" />][allure]
+[<img align="left" alt="Docker" height="26px" src="img/docker.png" />][docker]
+[<img align="left" alt="Jenkins" height="26px" src="img/jenkins.png" />][jenkins]
+[<img align="left" alt="Git" height="26px" src="img/git.png" />][git]
+[<img align="left" alt="postman" height="26px" src="https://res.cloudinary.com/postman/image/upload/t_team_logo/v1629869194/team/2893aede23f01bfcbd2319326bc96a6ed0524eba759745ed6d73405a3a8b67a8"/>][postman]
+[<img align="left" alt="jira" height="26px" src="https://astraapps.astra.co.id/jira-software/images/atlassian-jira-logo-large.png"/>][jira]
+[<img align="left" alt="MySQL" height="26px" src="img/mysql.png" />][mysql]
+[<img align="left" alt="PHP" height="26px" src="img/php.jpg" />][php]
+[<img align="left" alt="Python" height="26px" src="img/python.png" />][python]
 <br/><br/>
 
 ## Experience
