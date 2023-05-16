@@ -1,8 +1,74 @@
-- 👋 Hi, I’m @muhammadfajarb
-- 👀 I’m interested in Computer Vision, Machine Learning, and Data Science
-- 🌱 I’m currently doing research on AI
+## Hello world, I'm Fajar B 🤙
 
-<!---
-muhammadfajarb/muhammadfajarb is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+### I'm QA Engineer, Programmer, Researcher, Lecturer
+#### Here is About me:
+
+- ⚡ I’m interested in the field of automation testing, computer vision, machine learning
+- 🎯 I’m currently teaching Bachelor Degree in [UNM][unm] as Lecturer
+- 📍 Makassar, Indonesia
+
+## How to reach me:
+[<img align="left" alt="muhammadfajarb | medium" width="22px" src="img/medium.png" />][medium]
+[<img align="left" alt="muhammadfajarb | LinkedIn" width="22px" src="img/linkedin.png" />][linkedin]
+[<img align="left" alt="muhammadfajarb | Instagram" width="22px" src="img/instagram.png" />][instagram]
+
+<br/><br/>
+
+## Language and Tools:
+[<img align="left" alt="Visual Studio Code" width="26px" src="img/vscode.png" />][vscode]
+[<img align="left" alt="intellij" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/IntelliJ_IDEA_Icon.svg/1024px-IntelliJ_IDEA_Icon.svg.png"/>][intellij]
+[<img align="left" alt="Java" width="26px" src="img/java.jpg" />][java]
+[<img align="left" alt="TestNG" width="26px" src="img/testng.png" />][testng]
+[<img align="left" alt="Rest Assured" width="26px" src="img/restassured.png" />][restassured]
+[<img align="left" alt="Selenium" width="26px" src="img/selenium.png" />][selenium]
+[<img align="left" alt="Cucumber" width="26px" src="img/cucumber.png" />][cucumber]
+[<img align="left" alt="Appium" width="26px" src="img/appium.png" />][appium]
+[<img align="left" alt="Allure report" width="26px" src="img/allure.png" />][allure]
+[<img align="left" alt="Docker" width="26px" src="img/docker.png" />][docker]
+[<img align="left" alt="Jenkins" width="26px" src="img/jenkins.png" />][jenkins]
+[<img align="left" alt="Git" width="26px" src="img/git.png" />][git]
+[<img align="left" alt="postman" width="26px" src="https://res.cloudinary.com/postman/image/upload/t_team_logo/v1629869194/team/2893aede23f01bfcbd2319326bc96a6ed0524eba759745ed6d73405a3a8b67a8"/>][postman]
+[<img align="left" alt="jira" width="26px" src="https://astraapps.astra.co.id/jira-software/images/atlassian-jira-logo-large.png"/>][jira]
+<br/><br/>
+
+## Experience
+- ☑️ Programmer
+```ruby
+- Object Oriented Programming (OOP)
+- PHP
+- Java
+- Python
+- SQL & NoSQL
+- REST API
+- PHP Framework (Laravel, CodeIgniter, etc.)
+- VueJS
+```
+- ☑️ Automation & Manual Testing
+```ruby
+- API Testing (Cucumber, Java, JUnit, TestNG, Rest-Assured, Allure, Postman)
+- Web UI Testing (Cucumber, Java, Selenium)
+- Mobile Testing (Cucumber, Java, Appium)
+- CI/CD Integration
+- Smoke Test, Regression Test (Automation & Manual)
+- Automation pipeline [Github Action for api & web] and [Jenkins for iOS & Android]
+```
+
+
+[unm]: https://unm.ac.id
+[linkedin]: https://www.linkedin.com/in/muhammadfajarb
+[instagram]: https://www.instagram.com/muhammadfajarb
+[vscode]: https://code.visualstudio.com/
+[git]: https://git-scm.com/
+[appium]: http://appium.io/
+[selenium]: https://www.selenium.dev/
+[cucumber]: https://cucumber.io/
+[java]: https://www.java.com/
+[testng]: https://testng.org/doc
+[restassured]: https://rest-assured.io/
+[allure]: https://docs.qameta.io/allure/
+[jenkins]: https://www.jenkins.io/
+[docker]: https://www.docker.com/
+[intellij]: https://www.jetbrains.com/idea/
+[postman]: https://www.postman.com/
+[jira]: https://www.atlassian.com/software/jira
+[medium]: https://medium.com/@muhammadfajarb
