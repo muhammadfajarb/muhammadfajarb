@@ -32,6 +32,15 @@
 <br/><br/>
 
 ## Experience
+- ☑️ Automation & Manual Testing
+```ruby
+- API Testing (Cucumber, Java, JUnit, TestNG, Rest-Assured, Allure, Postman)
+- Web UI Testing (Cucumber, Java, Selenium)
+- Mobile Testing (Cucumber, Java, Appium)
+- CI/CD Integration
+- Smoke Test, Regression Test (Automation & Manual)
+- Automation pipeline [Github Action for api & web] and [Jenkins for iOS & Android]
+```
 - ☑️ Programmer
 ```ruby
 - Object Oriented Programming (OOP)
@@ -42,15 +51,6 @@
 - REST API
 - PHP Framework (Laravel, CodeIgniter, etc.)
 - VueJS
-```
-- ☑️ Automation & Manual Testing
-```ruby
-- API Testing (Cucumber, Java, JUnit, TestNG, Rest-Assured, Allure, Postman)
-- Web UI Testing (Cucumber, Java, Selenium)
-- Mobile Testing (Cucumber, Java, Appium)
-- CI/CD Integration
-- Smoke Test, Regression Test (Automation & Manual)
-- Automation pipeline [Github Action for api & web] and [Jenkins for iOS & Android]
 ```
 
 
