@@ -57,7 +57,7 @@
 ```
 
 
-[unm]: https://unm.ac.id
+[unm]: https://unm.ac.id/
 [linkedin]: https://www.linkedin.com/in/muhammadfajarb
 [instagram]: https://www.instagram.com/muhammadfajarb
 [vscode]: https://code.visualstudio.com/
@@ -66,6 +66,8 @@
 [selenium]: https://www.selenium.dev/
 [cucumber]: https://cucumber.io/
 [java]: https://www.java.com/
+[php]: https://www.php.net/
+[python]: https://www.python.org/
 [testng]: https://testng.org/doc
 [restassured]: https://rest-assured.io/
 [allure]: https://docs.qameta.io/allure/
@@ -75,3 +77,4 @@
 [postman]: https://www.postman.com/
 [jira]: https://www.atlassian.com/software/jira
 [medium]: https://medium.com/@muhammadfajarb
+[mysql]: https://www.mysql.com/
