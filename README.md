@@ -29,6 +29,9 @@
 [<img align="left" alt="Git" width="26px" src="img/git.png" />][git]
 [<img align="left" alt="postman" width="26px" src="https://res.cloudinary.com/postman/image/upload/t_team_logo/v1629869194/team/2893aede23f01bfcbd2319326bc96a6ed0524eba759745ed6d73405a3a8b67a8"/>][postman]
 [<img align="left" alt="jira" width="26px" src="https://astraapps.astra.co.id/jira-software/images/atlassian-jira-logo-large.png"/>][jira]
+[<img align="left" alt="MySQL" width="26px" src="img/mysql.png" />][mysql]
+[<img align="left" alt="PHP" width="26px" src="img/php.jpg" />][php]
+[<img align="left" alt="Python" width="26px" src="img/python.png" />][python]
 <br/><br/>
 
 ## Experience
