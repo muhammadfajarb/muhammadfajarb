@@ -15,6 +15,8 @@
 <br/><br/>
 
 ## Language and Tools:
+
+[<img src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg" alt="GitHub logo" width="40" height="40" style="fill:#252525;"/>][github]
 [<img align="left" alt="Visual Studio Code" height="26px" src="img/vscode.png" />][vscode]
 [<img align="left" alt="intellij" height="26px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/IntelliJ_IDEA_Icon.svg/1024px-IntelliJ_IDEA_Icon.svg.png"/>][intellij]
 [<img align="left" alt="Java" height="26px" src="img/java.jpg" />][java]
@@ -78,3 +80,4 @@
 [jira]: https://www.atlassian.com/software/jira
 [medium]: https://medium.com/@muhammadfajarb
 [mysql]: https://www.mysql.com/
+[github]: https://github.com/muhammadfajarb
