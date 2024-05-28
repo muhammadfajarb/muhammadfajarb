@@ -16,7 +16,7 @@
 
 
 <img align="left" height="175px" alt="Visual Studio Code" src="https://github-readme-stats.vercel.app/api?username=muhammadfajarb&theme=gotham&show_icons=true" />
-<img align="right" height="175px" alt="Visual Studio Code" src="https://github-readme-stats.vercel.app/api/top-langs/?username=muhammadfajarb&layout=compact&theme=gotham" />
+<img align="left" height="175px" alt="Visual Studio Code" src="https://github-readme-stats.vercel.app/api/top-langs/?username=muhammadfajarb&layout=compact&theme=gotham" />
 
 <br><br><br><br><br><br><br><br>
 
