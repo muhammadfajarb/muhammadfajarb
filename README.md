@@ -1,5 +1,5 @@
 # Hello world, I'm Muhammad Fajar B 🐼
-## Backend Engineer, Researcher, Lecturer
+## Backend Engineer, Lecturer, Researcher
 
 ### About me:
 
@@ -71,10 +71,11 @@
 [ugm]: https://ugm.ac.id/
 [google_scholar]: https://scholar.google.co.id/citations?user=I-jU2JUAAAAJ
 [linkedin]: https://www.linkedin.com/in/muhammadfajarb
-[youtube]: https://www.linkedin.com/in/muhammadfajarb
-[telegram]: https://www.linkedin.com/in/muhammadfajarb
+[youtube]: https://www.youtube.com/@muhammadfajarb
+[telegram]: https://t.me/muhammadfajarb
 [instagram]: https://www.instagram.com/muhammadfajarb
-[facebook]: https://www.instagram.com/muhammadfajarb
+[facebook]: https://www.facebook.com/muhammadfajarb
+[medium]: https://medium.com/@muhammadfajarb
 
 [vscode]: https://code.visualstudio.com/
 [git]: https://git-scm.com/
@@ -92,6 +93,6 @@
 [intellij]: https://www.jetbrains.com/idea/
 [postman]: https://www.postman.com/
 [jira]: https://www.atlassian.com/software/jira
-[medium]: https://medium.com/@muhammadfajarb
+
 [mysql]: https://www.mysql.com/
 [github]: https://github.com/muhammadfajarb
