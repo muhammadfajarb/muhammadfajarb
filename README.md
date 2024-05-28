@@ -1,4 +1,4 @@
-## Hello world, greetings from **Muhammad Fajar B** 🐼
+## <span style="color: #eeeeee;">Hello world, greetings from</span> **Muhammad Fajar B** 🐼
 
 ### I'm QA Engineer, Programmer, Researcher, Lecturer
 #### Here is About me:
