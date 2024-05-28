@@ -1,5 +1,5 @@
-<h1>Hello world, I'm Muhammad Fajar B 🐼</h1>
-## I'm Programmer, Researcher, Lecturer
+# Hello world, I'm Muhammad Fajar B 🐼
+## Programmer, Researcher, Lecturer
 ### Here is About me:
 
 - ⚡ I’m interested in the field of automation testing, computer vision, machine learning
