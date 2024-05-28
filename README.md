@@ -15,13 +15,9 @@
 [<img src="https://img.shields.io/badge/Medium-000000?logo=medium&logoColor=ffffff">][medium]
 
 
-<table>
-  <tr>
-    <td><img height="175px" alt="Visual Studio Code" src="https://github-readme-stats.vercel.app/api?username=muhammadfajarb&theme=gotham&show_icons=true" /></td>
-    <td><img height="175px" alt="Visual Studio Code" src="https://github-readme-stats.vercel.app/api/top-langs/?username=muhammadfajarb&layout=compact&theme=gotham" /></td>
-  </tr>
-</table>
-
+<img align="left" height="175px" alt="Visual Studio Code" src="https://github-readme-stats.vercel.app/api?username=muhammadfajarb&theme=gotham&show_icons=true" />
+<img align="right" height="175px" alt="Visual Studio Code" src="https://github-readme-stats.vercel.app/api/top-langs/?username=muhammadfajarb&layout=compact&theme=gotham" />
+<div style="height: 175px"></div>
 
 ## Language and Tools:
 
