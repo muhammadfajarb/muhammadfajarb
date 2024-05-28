@@ -1,10 +1,13 @@
 # Hello world, I'm Muhammad Fajar B 🐼
-## Programmer, Researcher, Lecturer
-### Here is About me:
+## Backend Engineer, Researcher, Lecturer
 
-- ⚡ I’m interested in the field of automation testing, computer vision, machine learning
-- 🎯 I’m currently teaching Bachelor Degree in [UNM][unm] as Lecturer
-- 📍 Makassar, Indonesia 🇮🇩
+### About me:
+
+- ⚡ Backend Engineer. I'm passionate to empowering the engine behind every interface.
+- 💼 Lecturer at [Universitas Negeri Makassar][unm]. I’m currently teaching Bachelor's Degree in Computer Engineering.
+- 🎓 Master of Computer Science (M.Cs.) at [Gadjah Mada University][ugm].
+- 🔍 [My research][google_scholar] fields are Programming, Machine Learning, Computer Vision, Artificial Intelligence. 
+- 🇮🇩 Makassar, South Celebes, Indonesia.
 
 ## Reach me:
 [<img src="https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&logoColor=ffffff">][linkedin]
@@ -65,6 +68,8 @@
 
 
 [unm]: https://unm.ac.id/
+[ugm]: https://ugm.ac.id/
+[google_scholar]: https://scholar.google.co.id/citations?user=I-jU2JUAAAAJ
 [linkedin]: https://www.linkedin.com/in/muhammadfajarb
 [youtube]: https://www.linkedin.com/in/muhammadfajarb
 [telegram]: https://www.linkedin.com/in/muhammadfajarb
