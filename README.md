@@ -3,9 +3,11 @@
 ### Here is About me:
 
 <img align="right" height="175px" alt="Visual Studio Code" src="https://github-readme-stats.vercel.app/api/top-langs/?username=muhammadfajarb&layout=compact&theme=gotham" />
-- ⚡ I’m interested in the field of automation testing, computer vision, machine learning
-- 🎯 I’m currently teaching Bachelor Degree in [UNM][unm] as Lecturer
-- 📍 Makassar, Indonesia 🇮🇩
+<br>- ⚡ I’m interested in the field of automation testing, computer vision, machine learning
+<br>- 🎯 I’m currently teaching Bachelor Degree in [UNM][unm] as Lecturer
+<br>- 📍 Makassar, Indonesia 🇮🇩
+
+<br><br>
 
 ## Reach me:
 [<img src="https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&logoColor=ffffff">][linkedin]
