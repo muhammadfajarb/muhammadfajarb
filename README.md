@@ -35,32 +35,27 @@
 [<img src="https://img.shields.io/badge/MongoDB-3FA037">][mongodb]
 [<img src="https://img.shields.io/badge/Oracle-B22222">][oracle]
 
-## Tools:
-<img src="https://img.shields.io/badge/Visual Studio Code-0E6EB8">
-<img src="https://img.shields.io/badge/Intellij Idea-1E90FF">
-<img src="https://img.shields.io/badge/Docker-2496ED">
-<img src="https://img.shields.io/badge/Selenium-43B02A">
-<img src="https://img.shields.io/badge/TestNG-D0ED57">
-
-<br><br>
-
-[<img align="left" alt="Visual Studio Code" height="26px" src="img/vscode.png" />][vscode]
-[<img align="left" alt="intellij" height="26px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/IntelliJ_IDEA_Icon.svg/1024px-IntelliJ_IDEA_Icon.svg.png"/>][intellij]
-[<img align="left" alt="TestNG" height="26px" src="img/testng.png" />][testng]
-[<img align="left" alt="Rest Assured" height="26px" src="img/restassured.png" />][restassured]
-[<img align="left" alt="Selenium" height="26px" src="img/selenium.png" />][selenium]
-[<img align="left" alt="Cucumber" height="26px" src="img/cucumber.png" />][cucumber]
-[<img align="left" alt="Appium" height="26px" src="img/appium.png" />][appium]
-[<img align="left" alt="Allure report" height="26px" src="img/allure.png" />][allure]
-[<img align="left" alt="Docker" height="26px" src="img/docker.png" />][docker]
-[<img align="left" alt="Jenkins" height="26px" src="img/jenkins.png" />][jenkins]
-[<img align="left" alt="Git" height="26px" src="img/git.png" />][git]
-[<img align="left" alt="postman" height="26px" src="https://res.cloudinary.com/postman/image/upload/t_team_logo/v1629869194/team/2893aede23f01bfcbd2319326bc96a6ed0524eba759745ed6d73405a3a8b67a8"/>][postman]
-[<img align="left" alt="jira" height="26px" src="https://astraapps.astra.co.id/jira-software/images/atlassian-jira-logo-large.png"/>][jira]
-
-<br/><br/>
+## Framework:
+[<img src="https://img.shields.io/badge/Laravel-FF2D20">][laravel]
+[<img src="https://img.shields.io/badge/CodeIgniter-EE4623">][codeigniter]
+[<img src="https://img.shields.io/badge/JQuery-0769AD">][jquery]
+[<img src="https://img.shields.io/badge/VueJS-42b883">][vuejs]
+[<img src="https://img.shields.io/badge/Gin-00ADD8">][gin]
 
 ## Tools:
+[<img src="https://img.shields.io/badge/Visual Studio Code-0E6EB8">][vscode]
+[<img src="https://img.shields.io/badge/Git-F05032">][git]
+[<img src="https://img.shields.io/badge/Postman-FF6C37">][postman]
+[<img src="https://img.shields.io/badge/Docker-2496ED">][docker]
+[<img src="https://img.shields.io/badge/Selenium-43B02A">][selenium]
+[<img src="https://img.shields.io/badge/Intellij Idea-1E90FF">][intellij]
+[<img src="https://img.shields.io/badge/Cucumber-23D96C">][cucumber]
+[<img src="https://img.shields.io/badge/RestAssured-6D9C38">][restassured]
+[<img src="https://img.shields.io/badge/TestNG-D0ED57">][testng]
+[<img src="https://img.shields.io/badge/Appium-1797DE">][appium]
+[<img src="https://img.shields.io/badge/Allure-8B3DA9">][allure]
+[<img src="https://img.shields.io/badge/Jenkins-D24939">][jenkins]
+[<img src="https://img.shields.io/badge/Jira-0052CC">][jira]
 
 <br/><br/>
 
@@ -103,19 +98,28 @@
 [java]: https://www.java.com/
 [go]: https://go.dev/
 
+[mysql]: https://www.mysql.com/
+[mongodb]: https://www.mongodb.com/
+[oracle]: https://www.oracle.com/
+
+[laravel]: https://laravel.com/
+[codeigniter]: https://codeigniter.com/
+[jquery]: https://jquery.com/
+[vuejs]: https://vuejs.org/
+[gin]: https://gin-gonic.com/
+
 [vscode]: https://code.visualstudio.com/
 [git]: https://git-scm.com/
-[appium]: http://appium.io/
+[postman]: https://www.postman.com/
+[docker]: https://www.docker.com/
 [selenium]: https://www.selenium.dev/
+[intellij]: https://www.jetbrains.com/idea/
 [cucumber]: https://cucumber.io/
-[testng]: https://testng.org/doc
 [restassured]: https://rest-assured.io/
+[testng]: https://testng.org/doc
+[appium]: http://appium.io/
 [allure]: https://docs.qameta.io/allure/
 [jenkins]: https://www.jenkins.io/
-[docker]: https://www.docker.com/
-[intellij]: https://www.jetbrains.com/idea/
-[postman]: https://www.postman.com/
 [jira]: https://www.atlassian.com/software/jira
 
-[mysql]: https://www.mysql.com/
 [github]: https://github.com/muhammadfajarb
