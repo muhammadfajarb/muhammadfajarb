@@ -18,8 +18,8 @@
 [<img src="https://img.shields.io/badge/Medium-000000?logo=medium&logoColor=ffffff">][medium]
 
 
-<img align="left" height="160px" alt="Visual Studio Code" src="https://github-readme-stats.vercel.app/api?username=muhammadfajarb&theme=gotham&show_icons=true" />
-<img align="left" height="160px" alt="Visual Studio Code" src="https://github-readme-streak-stats.herokuapp.com/?user=muhammadfajarb&theme=gotham&hide_border=true&date_format=j%20M%20Y" />
+<img align="left" height="165px" alt="Visual Studio Code" src="https://github-readme-stats.vercel.app/api?username=muhammadfajarb&theme=gotham&show_icons=true" />
+<img align="left" height="165px" alt="Visual Studio Code" src="https://github-readme-streak-stats.herokuapp.com/?user=muhammadfajarb&theme=gotham&hide_border=true&date_format=j%20M%20Y" />
 
 <br><br><br><br><br><br><br><br>
 
