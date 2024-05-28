@@ -1,24 +1,24 @@
-## <span style="color: #eeeeee;">Hello world, greetings from</span> **Muhammad Fajar B** 🐼
-
-### I'm QA Engineer, Programmer, Researcher, Lecturer
-#### Here is About me:
+# Hello world, I'm Muhammad Fajar B 🐼
+## I'm Programmer, Researcher, Lecturer
+### Here is About me:
 
 - ⚡ I’m interested in the field of automation testing, computer vision, machine learning
 - 🎯 I’m currently teaching Bachelor Degree in [UNM][unm] as Lecturer
 - 📍 Makassar, Indonesia 🇮🇩
 
-## How to reach me:
-[<img align="left" alt="muhammadfajarb | medium" height="22px" src="img/medium.png" />][medium]
-[<img align="left" alt="muhammadfajarb | LinkedIn" height="22px" src="img/linkedin.png" />][linkedin]
-[<img align="left" alt="muhammadfajarb | Instagram" height="22px" src="img/instagram.png" />][instagram]
-
-<br><br>
-
-## Language and Tools:
-
+## Reach me:
+[<img src="https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&logoColor=ffffff">][linkedin]
+[<img src="https://img.shields.io/badge/YouTube-FF0000?logo=youtube&logoColor=ffffff">][youtube]
+[<img src="https://img.shields.io/badge/Telegram-26A5E4?logo=telegram&logoColor=ffffff">][telegram]
+[<img src="https://img.shields.io/badge/Instagram-E4405F?logo=instagram&logoColor=ffffff">][instagram]
+[<img src="https://img.shields.io/badge/Facebook-0866FF?logo=facebook&logoColor=ffffff">][facebook]
+[<img src="https://img.shields.io/badge/Medium-000000?logo=medium&logoColor=ffffff">][medium]
 
 <img alt="Visual Studio Code" src="https://github-readme-stats.vercel.app/api?username=muhammadfajarb&theme=gotham&show_icons=true" />
-<br><br>
+
+
+
+## Language and Tools:
 
 [<img align="left" alt="Visual Studio Code" height="26px" src="img/vscode.png" />][vscode]
 [<img align="left" alt="intellij" height="26px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/IntelliJ_IDEA_Icon.svg/1024px-IntelliJ_IDEA_Icon.svg.png"/>][intellij]
@@ -64,7 +64,11 @@
 
 [unm]: https://unm.ac.id/
 [linkedin]: https://www.linkedin.com/in/muhammadfajarb
+[youtube]: https://www.linkedin.com/in/muhammadfajarb
+[telegram]: https://www.linkedin.com/in/muhammadfajarb
 [instagram]: https://www.instagram.com/muhammadfajarb
+[facebook]: https://www.instagram.com/muhammadfajarb
+
 [vscode]: https://code.visualstudio.com/
 [git]: https://git-scm.com/
 [appium]: http://appium.io/
