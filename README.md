@@ -2,7 +2,7 @@
 ## I'm Programmer, Researcher, Lecturer
 ### Here is About me:
 
-<img align="right" height="175px" alt="Visual Studio Code" src="https://github-readme-stats.vercel.app/api/top-langs/?username=muhammadfajarb&layout=compact&theme=gotham" />
+<img align="right" height="150px" alt="Visual Studio Code" src="https://github-readme-stats.vercel.app/api/top-langs/?username=muhammadfajarb&layout=compact&theme=gotham" />
 <br>- ⚡ I’m interested in the field of automation testing, computer vision, machine learning
 <br>- 🎯 I’m currently teaching Bachelor Degree in [UNM][unm] as Lecturer
 <br>- 📍 Makassar, Indonesia 🇮🇩
