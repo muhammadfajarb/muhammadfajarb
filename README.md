@@ -14,12 +14,14 @@
 [<img src="https://img.shields.io/badge/Facebook-0866FF?logo=facebook&logoColor=ffffff">][facebook]
 [<img src="https://img.shields.io/badge/Medium-000000?logo=medium&logoColor=ffffff">][medium]
 
-<table>
-<tr>
-<td><img height="175px" alt="Visual Studio Code" src="https://github-readme-stats.vercel.app/api?username=muhammadfajarb&theme=gotham&show_icons=true" /></td>
-<td><img height="175px" alt="Visual Studio Code" src="https://github-readme-stats.vercel.app/api/top-langs/?username=muhammadfajarb&layout=compact&theme=gotham" /></td>
-</tr>
+
+<table style="border: none; width: 100%;">
+  <tr>
+    <td style="border: none;"><img height="175px" alt="Visual Studio Code" src="https://github-readme-stats.vercel.app/api?username=muhammadfajarb&theme=gotham&show_icons=true" /></td>
+    <td style="border: none;"><img height="175px" alt="Visual Studio Code" src="https://github-readme-stats.vercel.app/api/top-langs/?username=muhammadfajarb&layout=compact&theme=gotham" /></td>
+  </tr>
 </table>
+
 
 ## Language and Tools:
 
