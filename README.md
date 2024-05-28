@@ -26,6 +26,7 @@
 ## Language:
 [<img src="https://img.shields.io/badge/PHP-6F42C1">][php]
 [<img src="https://img.shields.io/badge/Python-306998">][python]
+[<img src="https://img.shields.io/badge/Javascript-F7DF1E">][javascript]
 [<img src="https://img.shields.io/badge/Java-EE9000">][java]
 [<img src="https://img.shields.io/badge/GO-00ACD7">][go]
 
@@ -96,14 +97,17 @@
 [facebook]: https://www.facebook.com/muhammadfajarb
 [medium]: https://medium.com/@muhammadfajarb
 
+[php]: https://www.php.net/
+[python]: https://www.python.org/
+[javascript]: https://www.javascript.com/
+[java]: https://www.java.com/
+[go]: https://go.dev/
+
 [vscode]: https://code.visualstudio.com/
 [git]: https://git-scm.com/
 [appium]: http://appium.io/
 [selenium]: https://www.selenium.dev/
 [cucumber]: https://cucumber.io/
-[java]: https://www.java.com/
-[php]: https://www.php.net/
-[python]: https://www.python.org/
 [testng]: https://testng.org/doc
 [restassured]: https://rest-assured.io/
 [allure]: https://docs.qameta.io/allure/
