@@ -1,22 +1,25 @@
-## Hello world, I'm Fajar B 🤙
+## Hello world, greetings from **Muhammad Fajar B** 🐼
 
 ### I'm QA Engineer, Programmer, Researcher, Lecturer
 #### Here is About me:
 
 - ⚡ I’m interested in the field of automation testing, computer vision, machine learning
 - 🎯 I’m currently teaching Bachelor Degree in [UNM][unm] as Lecturer
-- 📍 Makassar, Indonesia
+- 📍 Makassar, Indonesia 🇮🇩
 
 ## How to reach me:
 [<img align="left" alt="muhammadfajarb | medium" height="22px" src="img/medium.png" />][medium]
 [<img align="left" alt="muhammadfajarb | LinkedIn" height="22px" src="img/linkedin.png" />][linkedin]
 [<img align="left" alt="muhammadfajarb | Instagram" height="22px" src="img/instagram.png" />][instagram]
 
-<br/><br/>
+<br><br>
 
 ## Language and Tools:
 
-[<svg role="img" viewBox="0 0 24 24" xmlns="http://www.w3.org/2000/svg"><title>Telegram</title><path d="M11.944 0A12 12 0 0 0 0 12a12 12 0 0 0 12 12 12 12 0 0 0 12-12A12 12 0 0 0 12 0a12 12 0 0 0-.056 0zm4.962 7.224c.1-.002.321.023.465.14a.506.506 0 0 1 .171.325c.016.093.036.306.02.472-.18 1.898-.962 6.502-1.36 8.627-.168.9-.499 1.201-.82 1.23-.696.065-1.225-.46-1.9-.902-1.056-.693-1.653-1.124-2.678-1.8-1.185-.78-.417-1.21.258-1.91.177-.184 3.247-2.977 3.307-3.23.007-.032.014-.15-.056-.212s-.174-.041-.249-.024c-.106.024-1.793 1.14-5.061 3.345-.48.33-.913.49-1.302.48-.428-.008-1.252-.241-1.865-.44-.752-.245-1.349-.374-1.297-.789.027-.216.325-.437.893-.663 3.498-1.524 5.83-2.529 6.998-3.014 3.332-1.386 4.025-1.627 4.476-1.635z"/></svg>][github]
+
+<img alt="Visual Studio Code" src="https://github-readme-stats.vercel.app/api?username=muhammadfajarb&theme=gotham&show_icons=true" />
+<br><br>
+
 [<img align="left" alt="Visual Studio Code" height="26px" src="img/vscode.png" />][vscode]
 [<img align="left" alt="intellij" height="26px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/IntelliJ_IDEA_Icon.svg/1024px-IntelliJ_IDEA_Icon.svg.png"/>][intellij]
 [<img align="left" alt="Java" height="26px" src="img/java.jpg" />][java]
