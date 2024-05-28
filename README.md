@@ -2,12 +2,9 @@
 ## I'm Programmer, Researcher, Lecturer
 ### Here is About me:
 
-<img align="right" height="150px" alt="Visual Studio Code" src="https://github-readme-stats.vercel.app/api/top-langs/?username=muhammadfajarb&layout=compact&theme=gotham" />
-<br>- ⚡ I’m interested in the field of automation testing, computer vision, machine learning
-<br>- 🎯 I’m currently teaching Bachelor Degree in [UNM][unm] as Lecturer
-<br>- 📍 Makassar, Indonesia 🇮🇩
-
-<br><br>
+- ⚡ I’m interested in the field of automation testing, computer vision, machine learning
+- 🎯 I’m currently teaching Bachelor Degree in [UNM][unm] as Lecturer
+- 📍 Makassar, Indonesia 🇮🇩
 
 ## Reach me:
 [<img src="https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&logoColor=ffffff">][linkedin]
@@ -18,8 +15,8 @@
 [<img src="https://img.shields.io/badge/Medium-000000?logo=medium&logoColor=ffffff">][medium]
 
 
-<img align="left" height="163px" alt="Visual Studio Code" src="https://github-readme-stats.vercel.app/api?username=muhammadfajarb&theme=gotham&show_icons=true" />
-<img align="left" height="163px" alt="Visual Studio Code" src="https://github-readme-streak-stats.herokuapp.com/?user=muhammadfajarb&theme=gotham&hide_border=true&date_format=j%20M%20Y" />
+<img align="left" height="175px" alt="Visual Studio Code" src="https://github-readme-stats.vercel.app/api?username=muhammadfajarb&theme=gotham&show_icons=true" />
+<img align="left" height="175px" alt="Visual Studio Code" src="https://github-readme-stats.vercel.app/api/top-langs/?username=muhammadfajarb&layout=compact&theme=gotham" />
 
 <br><br><br><br><br><br><br><br>
 
