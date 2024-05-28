@@ -7,13 +7,26 @@
 - 📍 Makassar, Indonesia 🇮🇩
 
 ## Reach me:
-[<img src="https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&logoColor=ffffff">][linkedin]
-[<img src="https://img.shields.io/badge/YouTube-FF0000?logo=youtube&logoColor=ffffff">][youtube]
-[<img src="https://img.shields.io/badge/Telegram-26A5E4?logo=telegram&logoColor=ffffff">][telegram]
-[<img src="https://img.shields.io/badge/Instagram-E4405F?logo=instagram&logoColor=ffffff">][instagram]
-[<img src="https://img.shields.io/badge/Facebook-0866FF?logo=facebook&logoColor=ffffff">][facebook]
-[<img src="https://img.shields.io/badge/Medium-000000?logo=medium&logoColor=ffffff">][medium]
+<a href="https://www.linkedin.com/in/username" target="_blank">
+  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&logoColor=ffffff">
+</a>
+<a href="https://www.youtube.com/channel/username" target="_blank">
+  <img src="https://img.shields.io/badge/YouTube-FF0000?logo=youtube&logoColor=ffffff">
+</a>
+<a href="https://t.me/username" target="_blank">
+  <img src="https://img.shields.io/badge/Telegram-26A5E4?logo=telegram&logoColor=ffffff">
+</a>
+<a href="https://www.instagram.com/username" target="_blank">
+  <img src="https://img.shields.io/badge/Instagram-E4405F?logo=instagram&logoColor=ffffff">
+</a>
+<a href="https://www.facebook.com/username" target="_blank">
+  <img src="https://img.shields.io/badge/Facebook-0866FF?logo=facebook&logoColor=ffffff">
+</a>
+<a href="https://medium.com/@username" target="_blank">
+  <img src="https://img.shields.io/badge/Medium-000000?logo=medium&logoColor=ffffff">
+</a>
 
+<br>
 
 <img align="left" height="175px" alt="Visual Studio Code" src="https://github-readme-stats.vercel.app/api?username=muhammadfajarb&theme=gotham&show_icons=true" />
 <img align="left" height="175px" alt="Visual Studio Code" src="https://github-readme-stats.vercel.app/api/top-langs/?username=muhammadfajarb&layout=compact&theme=gotham" />
