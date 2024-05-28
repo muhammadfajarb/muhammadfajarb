@@ -24,15 +24,15 @@
 <br><br><br><br><br><br><br><br>
 
 ## Language:
-<img src="https://img.shields.io/badge/PHP-6F42C1">
-<img src="https://img.shields.io/badge/Python-306998">
-<img src="https://img.shields.io/badge/Java-EE9000">
-<img src="https://img.shields.io/badge/GO-00ACD7">
+[<img src="https://img.shields.io/badge/PHP-6F42C1">][php]
+[<img src="https://img.shields.io/badge/Python-306998">][python]
+[<img src="https://img.shields.io/badge/Java-EE9000">][java]
+[<img src="https://img.shields.io/badge/GO-00ACD7">][go]
 
 ## Database:
-<img src="https://img.shields.io/badge/MySQL-0E6EB8">
-<img src="https://img.shields.io/badge/MongoDB-3FA037">
-<img src="https://img.shields.io/badge/Oracle-B22222">
+[<img src="https://img.shields.io/badge/MySQL-0E6EB8">][mysql]
+[<img src="https://img.shields.io/badge/MongoDB-3FA037">][mongodb]
+[<img src="https://img.shields.io/badge/Oracle-B22222">][oracle]
 
 ## Tools:
 <img src="https://img.shields.io/badge/Visual Studio Code-0E6EB8">
