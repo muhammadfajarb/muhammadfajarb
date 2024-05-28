@@ -57,8 +57,6 @@
 [<img src="https://img.shields.io/badge/Jenkins-D24939">][jenkins]
 [<img src="https://img.shields.io/badge/Jira-0052CC">][jira]
 
-<br/><br/>
-
 ## Experience
 - ☑️ Automation & Manual Testing
 ```
