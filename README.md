@@ -7,23 +7,23 @@
 - 📍 Makassar, Indonesia 🇮🇩
 
 ## Reach me:
-<a href="https://www.linkedin.com/in/username" target="_blank">
-  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&logoColor=ffffff">
+<a href="https://www.linkedin.com/in/username" target="_blank" style="text-decoration: none;">
+  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&logoColor=ffffff" alt="LinkedIn">
 </a>
-<a href="https://www.youtube.com/channel/username" target="_blank">
-  <img src="https://img.shields.io/badge/YouTube-FF0000?logo=youtube&logoColor=ffffff">
+<a href="https://www.youtube.com/channel/username" target="_blank" style="text-decoration: none;">
+  <img src="https://img.shields.io/badge/YouTube-FF0000?logo=youtube&logoColor=ffffff" alt="YouTube">
 </a>
-<a href="https://t.me/username" target="_blank">
-  <img src="https://img.shields.io/badge/Telegram-26A5E4?logo=telegram&logoColor=ffffff">
+<a href="https://t.me/username" target="_blank" style="text-decoration: none;">
+  <img src="https://img.shields.io/badge/Telegram-26A5E4?logo=telegram&logoColor=ffffff" alt="Telegram">
 </a>
-<a href="https://www.instagram.com/username" target="_blank">
-  <img src="https://img.shields.io/badge/Instagram-E4405F?logo=instagram&logoColor=ffffff">
+<a href="https://www.instagram.com/username" target="_blank" style="text-decoration: none;">
+  <img src="https://img.shields.io/badge/Instagram-E4405F?logo=instagram&logoColor=ffffff" alt="Instagram">
 </a>
-<a href="https://www.facebook.com/username" target="_blank">
-  <img src="https://img.shields.io/badge/Facebook-0866FF?logo=facebook&logoColor=ffffff">
+<a href="https://www.facebook.com/username" target="_blank" style="text-decoration: none;">
+  <img src="https://img.shields.io/badge/Facebook-0866FF?logo=facebook&logoColor=ffffff" alt="Facebook">
 </a>
-<a href="https://medium.com/@username" target="_blank">
-  <img src="https://img.shields.io/badge/Medium-000000?logo=medium&logoColor=ffffff">
+<a href="https://medium.com/@username" target="_blank" style="text-decoration: none;">
+  <img src="https://img.shields.io/badge/Medium-000000?logo=medium&logoColor=ffffff" alt="Medium">
 </a>
 
 <br>
