@@ -18,7 +18,9 @@
 <img align="left" height="175px" alt="Visual Studio Code" src="https://github-readme-stats.vercel.app/api?username=muhammadfajarb&theme=gotham&show_icons=true" />
 <img align="right" height="175px" alt="Visual Studio Code" src="https://github-readme-stats.vercel.app/api/top-langs/?username=muhammadfajarb&layout=compact&theme=gotham" />
 
-<h1 style="margin-top: 200px;">Language and Tools:</h1>
+<br><br><br><br><br><br><br><br>
+
+## Language and Tools:
 
 [<img align="left" alt="Visual Studio Code" height="26px" src="img/vscode.png" />][vscode]
 [<img align="left" alt="intellij" height="26px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/IntelliJ_IDEA_Icon.svg/1024px-IntelliJ_IDEA_Icon.svg.png"/>][intellij]
