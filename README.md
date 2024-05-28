@@ -23,11 +23,28 @@
 
 <br><br><br><br><br><br><br><br>
 
-## Language and Tools:
+## Language:
+<img src="https://img.shields.io/badge/PHP-6F42C1">
+<img src="https://img.shields.io/badge/Python-306998">
+<img src="https://img.shields.io/badge/Java-EE9000">
+<img src="https://img.shields.io/badge/GO-00ACD7">
+
+## Database:
+<img src="https://img.shields.io/badge/MySQL-0E6EB8">
+<img src="https://img.shields.io/badge/MongoDB-3FA037">
+<img src="https://img.shields.io/badge/Oracle-B22222">
+
+## Tools:
+<img src="https://img.shields.io/badge/Visual Studio Code-0E6EB8">
+<img src="https://img.shields.io/badge/Intellij Idea-1E90FF">
+<img src="https://img.shields.io/badge/Docker-2496ED">
+<img src="https://img.shields.io/badge/Selenium-43B02A">
+<img src="https://img.shields.io/badge/TestNG-D0ED57">
+
+<br><br>
 
 [<img align="left" alt="Visual Studio Code" height="26px" src="img/vscode.png" />][vscode]
 [<img align="left" alt="intellij" height="26px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/IntelliJ_IDEA_Icon.svg/1024px-IntelliJ_IDEA_Icon.svg.png"/>][intellij]
-[<img align="left" alt="Java" height="26px" src="img/java.jpg" />][java]
 [<img align="left" alt="TestNG" height="26px" src="img/testng.png" />][testng]
 [<img align="left" alt="Rest Assured" height="26px" src="img/restassured.png" />][restassured]
 [<img align="left" alt="Selenium" height="26px" src="img/selenium.png" />][selenium]
@@ -39,14 +56,16 @@
 [<img align="left" alt="Git" height="26px" src="img/git.png" />][git]
 [<img align="left" alt="postman" height="26px" src="https://res.cloudinary.com/postman/image/upload/t_team_logo/v1629869194/team/2893aede23f01bfcbd2319326bc96a6ed0524eba759745ed6d73405a3a8b67a8"/>][postman]
 [<img align="left" alt="jira" height="26px" src="https://astraapps.astra.co.id/jira-software/images/atlassian-jira-logo-large.png"/>][jira]
-[<img align="left" alt="MySQL" height="26px" src="img/mysql.png" />][mysql]
-[<img align="left" alt="PHP" height="26px" src="img/php.jpg" />][php]
-[<img align="left" alt="Python" height="26px" src="img/python.png" />][python]
+
+<br/><br/>
+
+## Tools:
+
 <br/><br/>
 
 ## Experience
 - ☑️ Automation & Manual Testing
-```ruby
+```
 - API Testing (Cucumber, Java, JUnit, TestNG, Rest-Assured, Allure, Postman)
 - Web UI Testing (Cucumber, Java, Selenium)
 - Mobile Testing (Cucumber, Java, Appium)
@@ -55,7 +74,7 @@
 - Automation pipeline [Github Action for api & web] and [Jenkins for iOS & Android]
 ```
 - ☑️ Programmer
-```ruby
+```
 - Object Oriented Programming (OOP)
 - PHP
 - Java
